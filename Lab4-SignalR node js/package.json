@@ -1,0 +1,27 @@
+{
+    "name": "signalr-client",
+    "version": "0.0.20",
+    "description": "signalR client for node.js",
+    "license": " ",
+    "main": "./signalR.js",
+    "keywords": [
+        "signalr",
+        "websockets"
+    ],
+    "author": {
+        "name": " "
+    },
+    "scripts": {
+        "test1":"node signalR-sample.js",
+        "test2":"node signalR.js"
+        },
+        
+    "dependencies": {
+        "signalr": "^2.4.3",
+        "websocket": "^1.0.28",
+        "ws": "^8.11.0"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
