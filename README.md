@@ -18,6 +18,7 @@ El algoritmo esta escrito para dar instrucciones concretas, para cambiar resulta
  #laboratorio 3 
  Trabajando con la creacion del gRPC API, hbe decidido usar PS'SQL DataBase para guardar, modificar y borrar mis datos (ya que no he implementado frontend).
  La base de datos relacional (PsSQL) see lee correctamente y al tambien el metodo GET, Los demas métodos no trabajan del todo bien ya que mi basede datos es relacional y debo de una manera única trabajar con el. a diferencia de base de datos no relacionales (NoSQL)
+ https://grpc.io/docs/languages/node/basics/ cons .net
  
   
   
